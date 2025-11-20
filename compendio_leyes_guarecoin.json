@@ -1,0 +1,41 @@
+{
+  "leyes_soberanas": [
+    {
+      "nombre": "Estructura Monetaria",
+      "descripcion": "1 GUARECOIN™ = 10,000 KRILLINS. KRILLIN es la unidad mínima e indivisible.",
+      "archivo": "estructura_monetaria.json",
+      "estado": "Sellada"
+    },
+    {
+      "nombre": "Transferencia Condicionada",
+      "descripcion": "Solo se puede transferir si el saldo total equivale a 1 GUARECOIN™ o más.",
+      "archivo": "guarecoin_transfer.py",
+      "estado": "Sellada"
+    },
+    {
+      "nombre": "Intransferibilidad del KRILLIN",
+      "descripcion": "Los KRILLINS no pueden transferirse. Solo GUARECOINS™ completos son transferibles.",
+      "archivo": "estructura_monetaria.json",
+      "estado": "Sellada"
+    },
+    {
+      "nombre": "Anonimato Perpetuo",
+      "descripcion": "Ningún módulo puede exigir identidad. Todo es anónimo por diseño.",
+      "archivo": "anonimato_guarecoin.json",
+      "estado": "Sellada"
+    },
+    {
+      "nombre": "Purificación del Sistema",
+      "descripcion": "El sistema puede escanear y eliminar cualquier línea que viole el anonimato.",
+      "archivo": "anonimato_defender.py",
+      "estado": "Sellada"
+    },
+    {
+      "nombre": "Verificación de Transferencias",
+      "descripcion": "Todas las transferencias se registran y pueden ser auditadas públicamente.",
+      "archivo": "verificador_transferencias.py",
+      "estado": "Sellada"
+    }
+  ],
+  "estado_global": "Compendio activo y obligatorio para todos los módulos GUARECHAIN™"
+}

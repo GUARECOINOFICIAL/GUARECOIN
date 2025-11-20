@@ -1,0 +1,18 @@
+[
+  {
+    "evento": "Bloque 1000 alcanzado",
+    "tipo": "hito",
+    "recompensa_antes": 0.9000,
+    "recompensa_despues": 0.8500,
+    "fecha": "2025-11-18T20:00:00Z",
+    "activado_por": "Código soberano"
+  },
+  {
+    "evento": "Minero KRILLIN_USER_001 minó 100 bloques seguidos",
+    "tipo": "persistencia individual",
+    "recompensa_antes": 0.8500,
+    "recompensa_despues": 0.8000,
+    "fecha": "2025-11-19T01:00:00Z",
+    "activado_por": "Código soberano"
+  }
+]

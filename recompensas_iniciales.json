@@ -1,0 +1,16 @@
+{
+  "total_reservado": 1000000,
+  "distribucion": [
+    {"rango": "1–100", "usuarios": 100, "guarecoins_por_usuario": 500},
+    {"rango": "101–1000", "usuarios": 900, "guarecoins_por_usuario": 100},
+    {"rango": "1001–5000", "usuarios": 4000, "guarecoins_por_usuario": 50},
+    {"rango": "5001–10000", "usuarios": 5000, "guarecoins_por_usuario": 30}
+  ],
+  "criterios": {
+    "orden_minado": true,
+    "bloques_validos": true,
+    "persistencia_anual": true
+  },
+  "auditable": true,
+  "modificable": false
+}

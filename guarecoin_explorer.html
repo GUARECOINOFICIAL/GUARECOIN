@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>GUARECHAIN™ Explorer</title></head>
+<body>
+  <h1>🔥 GUARECHAIN™ EXPLORADOR SOBERANO</h1>
+  <pre id="bloques"></pre>
+  <script>
+    fetch("cadena.json")
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById("bloques").textContent = JSON.stringify(data, null, 2);
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "modelo": "emocional",
+  "activadores": [
+    "bloque_1000",
+    "persistencia_minero_individual",
+    "actividad_continua_30_dias",
+    "cantidad_total_minada"
+  ],
+  "ajuste": {
+    "tipo": "curva variable",
+    "registro": "automático",
+    "verificacion": "por código"
+  },
+  "prohibiciones": [
+    "modificar algoritmo",
+    "intervenir recompensas",
+    "borrar registros"
+  ]
+}

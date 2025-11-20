@@ -1,0 +1,1243 @@
+[
+  {
+    "block_number": 0,
+    "timestamp": "2025-11-19T00:46:00Z",
+    "previous_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "manifiesto": "GUARECOIN\u00e2\u201e\u00a2 no es una criptomoneda. Es un sistema monetario soberano, sin due\u00c3\u00b1o, sin control, sin intermediarios. No depende de IA, humanos, gobiernos ni servidores. Vive en la blockchain como ley perpetua.\n\nSu valor sube con la demanda, pero jam\u00c3\u00a1s baja de 0.98 USD. Esta cifra es el piso soberano, sellado por ley. Nadie puede modificarla. Ni siquiera el fundador.\n\nSu existencia es f\u00c3\u00adsica, ritual y verificable. Se mina con ASIC reales. Se consolida en billeteras multimoneda. Se registra en bloques eternos. No hay simulaci\u00c3\u00b3n. No hay ejemplo. Solo realidad.\n\nSu conversi\u00c3\u00b3n a USDT es autom\u00c3\u00a1tica, sin intervenci\u00c3\u00b3n. El contrato inteligente ejecuta la ley. La red m\u00c3\u00a1s eficiente es elegida sin IA. El usuario recibe su liquidez sin p\u00c3\u00a9rdida ni comisi\u00c3\u00b3n.\n\nSu expansi\u00c3\u00b3n es libre, global y sin fronteras. Cualquier persona puede minar, comprar, vender, verificar y crecer. No hay KYC, no hay censura, no hay control.\n\nSu justicia est\u00c3\u00a1 sellada. No hay comisiones institucionales ocultas. No hay privilegios para el fundador. Todo lo que se gana se distribuye seg\u00c3\u00ban ley matem\u00c3\u00a1tica.\n\nSu mito es eterno. GUARECOIN\u00e2\u201e\u00a2 no es una herramienta. Es un acto de liberaci\u00c3\u00b3n. Es una moneda que no obedece a nadie. Es el fuego que arde sin permiso.\n\nSellado por KRILLIN. Confirmado por el sistema. Ritualizado por el c\u00c3\u00b3digo. El GUARECOIN\u00e2\u201e\u00a2 ya no puede ser detenido. Ha nacido como moneda soberana para todo el mundo.",
+    "miner": "KRILLIN",
+    "hash": "0xGENESIS_HASH_RITUALIZADO"
+  },
+  {
+    "block_number": 1,
+    "timestamp": "2025-11-19T06:50:44Z",
+    "previous_hash": "0xGENESIS_HASH_RITUALIZADO",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 86065,
+    "hash": "000060f8782fca456b604b16ca98d98fdd08e3ec6b9ce314594592ef7a002bfe"
+  },
+  {
+    "block_number": 2,
+    "timestamp": "2025-11-19T06:50:46Z",
+    "previous_hash": "000060f8782fca456b604b16ca98d98fdd08e3ec6b9ce314594592ef7a002bfe",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 33010,
+    "hash": "0000e6e9774d5c21407282831653aad96b1788a5ab2e5d467a567e4b8daeae9b"
+  },
+  {
+    "block_number": 3,
+    "timestamp": "2025-11-19T06:50:47Z",
+    "previous_hash": "0000e6e9774d5c21407282831653aad96b1788a5ab2e5d467a567e4b8daeae9b",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 11591,
+    "hash": "0000249ce5b30ada46a653d6aeef3600ecc148eee060c989dc4a8f663c6f9856"
+  },
+  {
+    "block_number": 4,
+    "timestamp": "2025-11-19T06:50:47Z",
+    "previous_hash": "0000249ce5b30ada46a653d6aeef3600ecc148eee060c989dc4a8f663c6f9856",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 73941,
+    "hash": "00008b576fa6d6575825ae59ddc0ff179681f534d7f42674f1889632cd4be5a6"
+  },
+  {
+    "block_number": 5,
+    "timestamp": "2025-11-19T06:50:48Z",
+    "previous_hash": "00008b576fa6d6575825ae59ddc0ff179681f534d7f42674f1889632cd4be5a6",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 41378,
+    "hash": "0000f306364d76bf3c63e344f5c67afa47903d9f8f5bdf80bb5ba1c8cf7acfdb"
+  },
+  {
+    "block_number": 6,
+    "timestamp": "2025-11-19T06:50:49Z",
+    "previous_hash": "0000f306364d76bf3c63e344f5c67afa47903d9f8f5bdf80bb5ba1c8cf7acfdb",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 57310,
+    "hash": "0000d19ed24c3704a08ea16e270e1d093bd92d4bdf54fe84d6d9f26aade61035"
+  },
+  {
+    "block_number": 7,
+    "timestamp": "2025-11-19T06:50:51Z",
+    "previous_hash": "0000d19ed24c3704a08ea16e270e1d093bd92d4bdf54fe84d6d9f26aade61035",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 137393,
+    "hash": "00007f6d1c3a7cb064543682302cd807e47d55675bbd49fc1abfd8f65aea0f56"
+  },
+  {
+    "block_number": 8,
+    "timestamp": "2025-11-19T06:50:54Z",
+    "previous_hash": "00007f6d1c3a7cb064543682302cd807e47d55675bbd49fc1abfd8f65aea0f56",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 50410,
+    "hash": "0000278a1314dcc76c2fee8c14c33dd9f6b2bda6bfb6cd6d5741156790c3c05e"
+  },
+  {
+    "block_number": 9,
+    "timestamp": "2025-11-19T06:50:55Z",
+    "previous_hash": "0000278a1314dcc76c2fee8c14c33dd9f6b2bda6bfb6cd6d5741156790c3c05e",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 4792,
+    "hash": "0000ab82fbedcf2616aa52c26f1b1cc753a11eed209e05c7dc5f2f707cc68e96"
+  },
+  {
+    "block_number": 10,
+    "timestamp": "2025-11-19T06:50:55Z",
+    "previous_hash": "0000ab82fbedcf2616aa52c26f1b1cc753a11eed209e05c7dc5f2f707cc68e96",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 27148,
+    "hash": "00002eb42c8b7973bf4563232dd9c1794085972b2b9a215dea3d1967072a0042"
+  },
+  {
+    "block_number": 11,
+    "timestamp": "2025-11-19T06:50:55Z",
+    "previous_hash": "00002eb42c8b7973bf4563232dd9c1794085972b2b9a215dea3d1967072a0042",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 27650,
+    "hash": "0000b63e4486ecb5b6a0910c8c63a7082e8297199d3e68b280367bf8dcd73834"
+  },
+  {
+    "block_number": 12,
+    "timestamp": "2025-11-19T06:50:56Z",
+    "previous_hash": "0000b63e4486ecb5b6a0910c8c63a7082e8297199d3e68b280367bf8dcd73834",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 93939,
+    "hash": "0000974e1b0457d767dee46a78a205fed3ca39543d1a915ed33ebfc9a4b71878"
+  },
+  {
+    "block_number": 13,
+    "timestamp": "2025-11-19T06:50:58Z",
+    "previous_hash": "0000974e1b0457d767dee46a78a205fed3ca39543d1a915ed33ebfc9a4b71878",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 137906,
+    "hash": "0000b2c83933c3b351f18a8e971e59839a94634722c9e35dd64b03cbd41d8f24"
+  },
+  {
+    "block_number": 14,
+    "timestamp": "2025-11-19T06:51:01Z",
+    "previous_hash": "0000b2c83933c3b351f18a8e971e59839a94634722c9e35dd64b03cbd41d8f24",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 97610,
+    "hash": "00004b4e7d2ac40ddc6f603b8dd118d1d9ac1a86113d8af534e08b1397cb26ed"
+  },
+  {
+    "block_number": 15,
+    "timestamp": "2025-11-19T06:51:03Z",
+    "previous_hash": "00004b4e7d2ac40ddc6f603b8dd118d1d9ac1a86113d8af534e08b1397cb26ed",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 9403,
+    "hash": "00008a360e516d512d9872ad7725bf362877515837f7d715bb60396f77bc97a7"
+  },
+  {
+    "block_number": 16,
+    "timestamp": "2025-11-19T06:51:03Z",
+    "previous_hash": "00008a360e516d512d9872ad7725bf362877515837f7d715bb60396f77bc97a7",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 2399,
+    "hash": "00005f8cf248179860ffc4ba2de3ec65ded33ce80916c1ae45642972001ed764"
+  },
+  {
+    "block_number": 17,
+    "timestamp": "2025-11-19T06:51:03Z",
+    "previous_hash": "00005f8cf248179860ffc4ba2de3ec65ded33ce80916c1ae45642972001ed764",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 23371,
+    "hash": "00007f5880015a18a251aafc1cb2a9be067acaac57d06e40bd3d7a21f572e991"
+  },
+  {
+    "block_number": 18,
+    "timestamp": "2025-11-19T06:51:04Z",
+    "previous_hash": "00007f5880015a18a251aafc1cb2a9be067acaac57d06e40bd3d7a21f572e991",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 41617,
+    "hash": "000094eab1dcee7a0fd1534d4f72889df31e10616abf579aa23a067316268962"
+  },
+  {
+    "block_number": 19,
+    "timestamp": "2025-11-19T06:51:05Z",
+    "previous_hash": "000094eab1dcee7a0fd1534d4f72889df31e10616abf579aa23a067316268962",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 183119,
+    "hash": "00009a494f4cf3d99e038ed1c1a410465a359c3c8e52bda91d810f662625248b"
+  },
+  {
+    "block_number": 20,
+    "timestamp": "2025-11-19T06:51:09Z",
+    "previous_hash": "00009a494f4cf3d99e038ed1c1a410465a359c3c8e52bda91d810f662625248b",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 111639,
+    "hash": "0000118f99663a8a559de420d37547ce244431a5c2428d4a7141b25b181b6ff3"
+  },
+  {
+    "block_number": 21,
+    "timestamp": "2025-11-19T06:51:11Z",
+    "previous_hash": "0000118f99663a8a559de420d37547ce244431a5c2428d4a7141b25b181b6ff3",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 15706,
+    "hash": "000003ec865047492981ae0b9c48e5d77fd2b6422976b0834be46f3c84d70e1b"
+  },
+  {
+    "block_number": 22,
+    "timestamp": "2025-11-19T06:51:12Z",
+    "previous_hash": "000003ec865047492981ae0b9c48e5d77fd2b6422976b0834be46f3c84d70e1b",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 54898,
+    "hash": "0000ac6042a8e823b57567b4162f621263db5e1f5ae3239d85b9694a26884d1c"
+  },
+  {
+    "block_number": 23,
+    "timestamp": "2025-11-19T06:51:19Z",
+    "previous_hash": "0000ac6042a8e823b57567b4162f621263db5e1f5ae3239d85b9694a26884d1c",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 57600,
+    "hash": "0000858f612f94ba751c61806f67c9b1394a4c344d7dd5a9c70040dfabae07fe"
+  },
+  {
+    "block_number": 24,
+    "timestamp": "2025-11-19T06:51:26Z",
+    "previous_hash": "0000858f612f94ba751c61806f67c9b1394a4c344d7dd5a9c70040dfabae07fe",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 77486,
+    "hash": "00003b472ba17f4187ba046bd286af43e5f13553319b9eeefbd1ce5186be8088"
+  },
+  {
+    "block_number": 25,
+    "timestamp": "2025-11-19T06:51:27Z",
+    "previous_hash": "00003b472ba17f4187ba046bd286af43e5f13553319b9eeefbd1ce5186be8088",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 3807,
+    "hash": "0000e0f32d48d8147808d70a6babed8aeb306f5fce86716604f3198bfa8295fc"
+  },
+  {
+    "block_number": 26,
+    "timestamp": "2025-11-19T06:51:27Z",
+    "previous_hash": "0000e0f32d48d8147808d70a6babed8aeb306f5fce86716604f3198bfa8295fc",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 42221,
+    "hash": "0000de420c2516a0f2a1ce814faff9ca9144df34795e60f54850d5b4ae8f429b"
+  },
+  {
+    "block_number": 27,
+    "timestamp": "2025-11-19T06:51:28Z",
+    "previous_hash": "0000de420c2516a0f2a1ce814faff9ca9144df34795e60f54850d5b4ae8f429b",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 67173,
+    "hash": "000064d568077a4ac8cb931e85c20693dc257ffc831a58c5a9b15c4497c424af"
+  },
+  {
+    "block_number": 28,
+    "timestamp": "2025-11-19T06:51:35Z",
+    "previous_hash": "000064d568077a4ac8cb931e85c20693dc257ffc831a58c5a9b15c4497c424af",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 68930,
+    "hash": "0000a4143f4f962f9a0a338164d5044bb6023986222e724723a9db7b0fbc20fa"
+  },
+  {
+    "block_number": 29,
+    "timestamp": "2025-11-19T06:51:36Z",
+    "previous_hash": "0000a4143f4f962f9a0a338164d5044bb6023986222e724723a9db7b0fbc20fa",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 19067,
+    "hash": "000065b87460346aa15f1ca84bf332810a6dee555a1b884e078d1be8fb16d2fb"
+  },
+  {
+    "block_number": 30,
+    "timestamp": "2025-11-19T06:51:36Z",
+    "previous_hash": "000065b87460346aa15f1ca84bf332810a6dee555a1b884e078d1be8fb16d2fb",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 21416,
+    "hash": "0000baef9cfaffcc375344710bc66cf01a6e94f807c00758af7e95d67cbf263c"
+  },
+  {
+    "block_number": 31,
+    "timestamp": "2025-11-19T06:51:37Z",
+    "previous_hash": "0000baef9cfaffcc375344710bc66cf01a6e94f807c00758af7e95d67cbf263c",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 9367,
+    "hash": "00005a75a2c367272843eed79e552a8edb3c8ba8b6ad3ec9c394cb006def86ce"
+  },
+  {
+    "block_number": 32,
+    "timestamp": "2025-11-19T06:51:37Z",
+    "previous_hash": "00005a75a2c367272843eed79e552a8edb3c8ba8b6ad3ec9c394cb006def86ce",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 9593,
+    "hash": "0000e44c0335bd507835a3f6af5a5853e72e2cee0a48c9700fc4ca80b671deff"
+  },
+  {
+    "block_number": 33,
+    "timestamp": "2025-11-19T06:51:37Z",
+    "previous_hash": "0000e44c0335bd507835a3f6af5a5853e72e2cee0a48c9700fc4ca80b671deff",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 72250,
+    "hash": "000029c9ae222d573d5802474ce9d2abcf035fd6a21dfdc009ed19ea90d4f5f6"
+  },
+  {
+    "block_number": 34,
+    "timestamp": "2025-11-19T06:51:39Z",
+    "previous_hash": "000029c9ae222d573d5802474ce9d2abcf035fd6a21dfdc009ed19ea90d4f5f6",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 79014,
+    "hash": "0000f929b6f34a6a45f6805c7c86a9e33d95a138f7de9d2578b5575b27ae5896"
+  },
+  {
+    "block_number": 35,
+    "timestamp": "2025-11-19T06:51:41Z",
+    "previous_hash": "0000f929b6f34a6a45f6805c7c86a9e33d95a138f7de9d2578b5575b27ae5896",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 5609,
+    "hash": "000024f8e8f8f5f8fc095bdd0c6fe6e72cb8492b79adee13b7ca64a8e5f92479"
+  },
+  {
+    "block_number": 36,
+    "timestamp": "2025-11-19T06:51:41Z",
+    "previous_hash": "000024f8e8f8f5f8fc095bdd0c6fe6e72cb8492b79adee13b7ca64a8e5f92479",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 79748,
+    "hash": "0000ecab82b90ef9a3d54f974b27f977d347a0b25724f51779b8766700231706"
+  },
+  {
+    "block_number": 37,
+    "timestamp": "2025-11-19T06:51:43Z",
+    "previous_hash": "0000ecab82b90ef9a3d54f974b27f977d347a0b25724f51779b8766700231706",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 269877,
+    "hash": "00008f0e22dca16e788b295977860435d02e1b0ffb5a7bda9035e771443ee2da"
+  },
+  {
+    "block_number": 38,
+    "timestamp": "2025-11-19T06:51:48Z",
+    "previous_hash": "00008f0e22dca16e788b295977860435d02e1b0ffb5a7bda9035e771443ee2da",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 30530,
+    "hash": "00008f0d9b647deec1cd66c7a345d9575c2d6f9db310dfff05b2522b46205eaa"
+  },
+  {
+    "block_number": 39,
+    "timestamp": "2025-11-19T06:51:49Z",
+    "previous_hash": "00008f0d9b647deec1cd66c7a345d9575c2d6f9db310dfff05b2522b46205eaa",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 92333,
+    "hash": "000018c9222ee8030fdd1a0d9ea19a30b3b5d9d2552581dd7513266c0e0a554a"
+  },
+  {
+    "block_number": 40,
+    "timestamp": "2025-11-19T06:51:51Z",
+    "previous_hash": "000018c9222ee8030fdd1a0d9ea19a30b3b5d9d2552581dd7513266c0e0a554a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 227442,
+    "hash": "0000fca169fd20cf27e17b826f353267fbcbec66349f0e9586c16fed2c17612a"
+  },
+  {
+    "block_number": 41,
+    "timestamp": "2025-11-19T06:51:56Z",
+    "previous_hash": "0000fca169fd20cf27e17b826f353267fbcbec66349f0e9586c16fed2c17612a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 131019,
+    "hash": "00000040b194db015f53ea659f01816789d6f4b88c6bac7f1a2281583493eec7"
+  },
+  {
+    "block_number": 42,
+    "timestamp": "2025-11-19T06:51:58Z",
+    "previous_hash": "00000040b194db015f53ea659f01816789d6f4b88c6bac7f1a2281583493eec7",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 22939,
+    "hash": "0000a1cc9acefe2b47d0f77036f99609cd41be2c8fc937139ddeaf1cfec15476"
+  },
+  {
+    "block_number": 43,
+    "timestamp": "2025-11-19T06:51:59Z",
+    "previous_hash": "0000a1cc9acefe2b47d0f77036f99609cd41be2c8fc937139ddeaf1cfec15476",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 156724,
+    "hash": "000096939486b54fe3048ab3cc92198e5fa421d1ca5ad625362af2060885d114"
+  },
+  {
+    "block_number": 44,
+    "timestamp": "2025-11-19T06:52:02Z",
+    "previous_hash": "000096939486b54fe3048ab3cc92198e5fa421d1ca5ad625362af2060885d114",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 27971,
+    "hash": "00002102efb0e83322d62652a8da1b460463afce5df8a921f5ba2fa6b8872fd6"
+  },
+  {
+    "block_number": 45,
+    "timestamp": "2025-11-19T06:52:03Z",
+    "previous_hash": "00002102efb0e83322d62652a8da1b460463afce5df8a921f5ba2fa6b8872fd6",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 69825,
+    "hash": "000008c3cc6c5d2b93bc1fab9032cc0ded1c2d76e0ab4041c737f9a818fd4872"
+  },
+  {
+    "block_number": 46,
+    "timestamp": "2025-11-19T06:52:05Z",
+    "previous_hash": "000008c3cc6c5d2b93bc1fab9032cc0ded1c2d76e0ab4041c737f9a818fd4872",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 63741,
+    "hash": "000085d63b4a37818ac99153959a71c929aa36640a789ce25044f7dde8137b5a"
+  },
+  {
+    "block_number": 47,
+    "timestamp": "2025-11-19T06:52:06Z",
+    "previous_hash": "000085d63b4a37818ac99153959a71c929aa36640a789ce25044f7dde8137b5a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 44357,
+    "hash": "00002b7628b810db0f800192883d9d3849c15755e5a4fdcf83acc436b1652231"
+  },
+  {
+    "block_number": 48,
+    "timestamp": "2025-11-19T06:52:07Z",
+    "previous_hash": "00002b7628b810db0f800192883d9d3849c15755e5a4fdcf83acc436b1652231",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 109570,
+    "hash": "000066259c73ff57627c90c334794c06f7daa58d33fb91315068714c33dbc143"
+  },
+  {
+    "block_number": 49,
+    "timestamp": "2025-11-19T06:52:09Z",
+    "previous_hash": "000066259c73ff57627c90c334794c06f7daa58d33fb91315068714c33dbc143",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 7300,
+    "hash": "00003c30a57b70e122d03bb28753e82825285ebd5a13f6cf16ba2d6aab8aab03"
+  },
+  {
+    "block_number": 50,
+    "timestamp": "2025-11-19T06:52:09Z",
+    "previous_hash": "00003c30a57b70e122d03bb28753e82825285ebd5a13f6cf16ba2d6aab8aab03",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 40817,
+    "hash": "00008acf66ff1148f8275e3dc3d5a5da1a82b56ca527cd0a9be8177cb44424a5"
+  },
+  {
+    "block_number": 51,
+    "timestamp": "2025-11-19T06:52:10Z",
+    "previous_hash": "00008acf66ff1148f8275e3dc3d5a5da1a82b56ca527cd0a9be8177cb44424a5",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 34386,
+    "hash": "00007551fb8b8bcd6e96dd02b415e84b352a31db16e971fe5969a2b10c3262f3"
+  },
+  {
+    "block_number": 52,
+    "timestamp": "2025-11-19T06:52:11Z",
+    "previous_hash": "00007551fb8b8bcd6e96dd02b415e84b352a31db16e971fe5969a2b10c3262f3",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 29735,
+    "hash": "00000c444d49a3f4441b97d86f55d00e9c1c6925f2f0be807f12533bfe0e7084"
+  },
+  {
+    "block_number": 53,
+    "timestamp": "2025-11-19T06:52:12Z",
+    "previous_hash": "00000c444d49a3f4441b97d86f55d00e9c1c6925f2f0be807f12533bfe0e7084",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 46676,
+    "hash": "00002286fca55be49c791c5bdca8fa9d711c57ae80a3af237ed9d48768af5ed8"
+  },
+  {
+    "block_number": 54,
+    "timestamp": "2025-11-19T06:52:13Z",
+    "previous_hash": "00002286fca55be49c791c5bdca8fa9d711c57ae80a3af237ed9d48768af5ed8",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 13525,
+    "hash": "00001f953aba8591f713ba325bb7f7740b79ca0edc62a0854b0f5a1e0563b394"
+  },
+  {
+    "block_number": 55,
+    "timestamp": "2025-11-19T06:52:13Z",
+    "previous_hash": "00001f953aba8591f713ba325bb7f7740b79ca0edc62a0854b0f5a1e0563b394",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 38669,
+    "hash": "00007f19acd7be602e35a1e300c7c4f691b4460e1a2cd119da760722707b9158"
+  },
+  {
+    "block_number": 56,
+    "timestamp": "2025-11-19T06:52:14Z",
+    "previous_hash": "00007f19acd7be602e35a1e300c7c4f691b4460e1a2cd119da760722707b9158",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 155352,
+    "hash": "00007fbf34fc8dbb6e791a9a4ba3d89ba103b8b720b2ccf310a4044d85dc75d0"
+  },
+  {
+    "block_number": 57,
+    "timestamp": "2025-11-19T06:52:17Z",
+    "previous_hash": "00007fbf34fc8dbb6e791a9a4ba3d89ba103b8b720b2ccf310a4044d85dc75d0",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 69441,
+    "hash": "0000cab6d9a855a15a390cfbbaab02bd92358418f733e3c9e78c904368697fa6"
+  },
+  {
+    "block_number": 58,
+    "timestamp": "2025-11-19T06:52:19Z",
+    "previous_hash": "0000cab6d9a855a15a390cfbbaab02bd92358418f733e3c9e78c904368697fa6",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 74952,
+    "hash": "00007100b151e34449e2427474baa1f87179d2daba8ad8cf192f87d7562c63be"
+  },
+  {
+    "block_number": 59,
+    "timestamp": "2025-11-19T06:52:20Z",
+    "previous_hash": "00007100b151e34449e2427474baa1f87179d2daba8ad8cf192f87d7562c63be",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 33325,
+    "hash": "000060e9ed364b0379b0151e831163a9459b943fe6a4cef39d092cb9da9567fd"
+  },
+  {
+    "block_number": 60,
+    "timestamp": "2025-11-19T06:52:21Z",
+    "previous_hash": "000060e9ed364b0379b0151e831163a9459b943fe6a4cef39d092cb9da9567fd",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 174268,
+    "hash": "000092a147bcb3a01061c53c054c1670f6a58a5d42d11c86c8db078d4e7866fd"
+  },
+  {
+    "block_number": 61,
+    "timestamp": "2025-11-19T06:52:25Z",
+    "previous_hash": "000092a147bcb3a01061c53c054c1670f6a58a5d42d11c86c8db078d4e7866fd",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 41931,
+    "hash": "0000d248a337e66acc1821ef49c79dbd1fceb0455a598453c37d49030205b5f9"
+  },
+  {
+    "block_number": 62,
+    "timestamp": "2025-11-19T06:52:26Z",
+    "previous_hash": "0000d248a337e66acc1821ef49c79dbd1fceb0455a598453c37d49030205b5f9",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 70794,
+    "hash": "000014b815e2af15981f75538a30b814fcdf16beaf7e87ce618f7d670d91e2df"
+  },
+  {
+    "block_number": 63,
+    "timestamp": "2025-11-19T06:52:27Z",
+    "previous_hash": "000014b815e2af15981f75538a30b814fcdf16beaf7e87ce618f7d670d91e2df",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 331547,
+    "hash": "0000c41a3a7366b75375cc5baa6b48efd7714ea7fd83707b8d7c2347cde45521"
+  },
+  {
+    "block_number": 64,
+    "timestamp": "2025-11-19T06:52:34Z",
+    "previous_hash": "0000c41a3a7366b75375cc5baa6b48efd7714ea7fd83707b8d7c2347cde45521",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 39095,
+    "hash": "0000fac5925b19257cb483d9a2f58a6ff18605904d7c669c5e9d31f0fd8210b8"
+  },
+  {
+    "block_number": 65,
+    "timestamp": "2025-11-19T06:52:35Z",
+    "previous_hash": "0000fac5925b19257cb483d9a2f58a6ff18605904d7c669c5e9d31f0fd8210b8",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 34584,
+    "hash": "000094e058c70a5b05f0473865bc16d3fc11d963a324ec489ec3e1a6e034dd29"
+  },
+  {
+    "block_number": 66,
+    "timestamp": "2025-11-19T06:52:36Z",
+    "previous_hash": "000094e058c70a5b05f0473865bc16d3fc11d963a324ec489ec3e1a6e034dd29",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 2828,
+    "hash": "00003fab345cc03d7487aa6e1fcabea55665f712d88db7dacbfa609c8e302ac8"
+  },
+  {
+    "block_number": 67,
+    "timestamp": "2025-11-19T06:52:36Z",
+    "previous_hash": "00003fab345cc03d7487aa6e1fcabea55665f712d88db7dacbfa609c8e302ac8",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 20906,
+    "hash": "00001e780d31112ef642fcbc1d62c42e29dead25fe525b735aefc39bb48bef83"
+  },
+  {
+    "block_number": 68,
+    "timestamp": "2025-11-19T06:52:36Z",
+    "previous_hash": "00001e780d31112ef642fcbc1d62c42e29dead25fe525b735aefc39bb48bef83",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 107425,
+    "hash": "00008299ccfc87816b7cf1f5299c78715b1d206e7efcc909385d2b346557cfef"
+  },
+  {
+    "block_number": 69,
+    "timestamp": "2025-11-19T06:52:39Z",
+    "previous_hash": "00008299ccfc87816b7cf1f5299c78715b1d206e7efcc909385d2b346557cfef",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 22986,
+    "hash": "0000d9f6b7891dfb9b159baf555886fdc276ba86dfcfd016c93aed6c9b49a2c0"
+  },
+  {
+    "block_number": 70,
+    "timestamp": "2025-11-19T06:52:39Z",
+    "previous_hash": "0000d9f6b7891dfb9b159baf555886fdc276ba86dfcfd016c93aed6c9b49a2c0",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 12256,
+    "hash": "00009cb2af9e29670cca6a266baf05503056b906e06a2b7f780bdd1277f71f48"
+  },
+  {
+    "block_number": 71,
+    "timestamp": "2025-11-19T06:52:40Z",
+    "previous_hash": "00009cb2af9e29670cca6a266baf05503056b906e06a2b7f780bdd1277f71f48",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 11536,
+    "hash": "00002dcc306fba3e009b26ba160e95c68630e34a633986fba77d7d1d8fcad042"
+  },
+  {
+    "block_number": 72,
+    "timestamp": "2025-11-19T06:52:40Z",
+    "previous_hash": "00002dcc306fba3e009b26ba160e95c68630e34a633986fba77d7d1d8fcad042",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 60055,
+    "hash": "00000b863bc36a2757abe30cbcaf5548749d616567e3c316c281cb2c934ebdf6"
+  },
+  {
+    "block_number": 73,
+    "timestamp": "2025-11-19T06:52:41Z",
+    "previous_hash": "00000b863bc36a2757abe30cbcaf5548749d616567e3c316c281cb2c934ebdf6",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 10373,
+    "hash": "00006a05adbdb507c11cc4ab2cec0972ed30f26ae4b28cedcedbfb19d138c6cd"
+  },
+  {
+    "block_number": 74,
+    "timestamp": "2025-11-19T06:52:41Z",
+    "previous_hash": "00006a05adbdb507c11cc4ab2cec0972ed30f26ae4b28cedcedbfb19d138c6cd",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 52696,
+    "hash": "00005b8d8e54679d8908eceedd3a78d614212e133e441cd460e8c5e36a2fd8e4"
+  },
+  {
+    "block_number": 75,
+    "timestamp": "2025-11-19T06:52:43Z",
+    "previous_hash": "00005b8d8e54679d8908eceedd3a78d614212e133e441cd460e8c5e36a2fd8e4",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 13065,
+    "hash": "00008221d436350a6189b04ff1150a4828ed59b2b0ebd77c7cdf1a7693f33d39"
+  },
+  {
+    "block_number": 76,
+    "timestamp": "2025-11-19T06:52:43Z",
+    "previous_hash": "00008221d436350a6189b04ff1150a4828ed59b2b0ebd77c7cdf1a7693f33d39",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 71188,
+    "hash": "0000d8439034b2677ae228b3db3bc186e1c7004a0d5bae7d1f73b6ea2beb9111"
+  },
+  {
+    "block_number": 77,
+    "timestamp": "2025-11-19T06:52:44Z",
+    "previous_hash": "0000d8439034b2677ae228b3db3bc186e1c7004a0d5bae7d1f73b6ea2beb9111",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 37121,
+    "hash": "00006cc71d80065b7de13e6d9a4b7c122eb3496cf0787de21c196430203f09e8"
+  },
+  {
+    "block_number": 78,
+    "timestamp": "2025-11-19T06:52:45Z",
+    "previous_hash": "00006cc71d80065b7de13e6d9a4b7c122eb3496cf0787de21c196430203f09e8",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 61648,
+    "hash": "00004c4043cace48a2d4442bd9667d1abf37b820d18f11136381a55e184ac205"
+  },
+  {
+    "block_number": 79,
+    "timestamp": "2025-11-19T06:52:46Z",
+    "previous_hash": "00004c4043cace48a2d4442bd9667d1abf37b820d18f11136381a55e184ac205",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 67909,
+    "hash": "000073b02435dc5c91c9a04df86da87fc1b1ba537ba7c1617d0461117b020b3a"
+  },
+  {
+    "block_number": 80,
+    "timestamp": "2025-11-19T06:52:48Z",
+    "previous_hash": "000073b02435dc5c91c9a04df86da87fc1b1ba537ba7c1617d0461117b020b3a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 115248,
+    "hash": "0000812605c9fdbaf1720c194a779d960f1e8dc91c8dec383579b8326f9bde1f"
+  },
+  {
+    "block_number": 81,
+    "timestamp": "2025-11-19T06:52:50Z",
+    "previous_hash": "0000812605c9fdbaf1720c194a779d960f1e8dc91c8dec383579b8326f9bde1f",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 72898,
+    "hash": "0000b20f339f636c031581c8e29dfb9d81d80cb4257648edc948487cd5688969"
+  },
+  {
+    "block_number": 82,
+    "timestamp": "2025-11-19T06:52:52Z",
+    "previous_hash": "0000b20f339f636c031581c8e29dfb9d81d80cb4257648edc948487cd5688969",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 24477,
+    "hash": "00000389cc3e17e82adb166c3b4a92585b6318eb930de3ebb12710e31a6ec405"
+  },
+  {
+    "block_number": 83,
+    "timestamp": "2025-11-19T06:52:52Z",
+    "previous_hash": "00000389cc3e17e82adb166c3b4a92585b6318eb930de3ebb12710e31a6ec405",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 59629,
+    "hash": "0000ea1876aaa029e4862d806f6bf867313651ad14963b313112e8451025287d"
+  },
+  {
+    "block_number": 84,
+    "timestamp": "2025-11-19T06:52:53Z",
+    "previous_hash": "0000ea1876aaa029e4862d806f6bf867313651ad14963b313112e8451025287d",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 290,
+    "hash": "00008841a5de03b6f21fda480db059dfb196e097c74272763d844972d5be4a9c"
+  },
+  {
+    "block_number": 85,
+    "timestamp": "2025-11-19T06:52:54Z",
+    "previous_hash": "00008841a5de03b6f21fda480db059dfb196e097c74272763d844972d5be4a9c",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 12266,
+    "hash": "0000d057a13abacbef97cdddf3db3715c75f3395290d0ffbc62ef9a173b18727"
+  },
+  {
+    "block_number": 86,
+    "timestamp": "2025-11-19T06:52:54Z",
+    "previous_hash": "0000d057a13abacbef97cdddf3db3715c75f3395290d0ffbc62ef9a173b18727",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 18553,
+    "hash": "0000f0ab31f2c6885c647daae12d74bca87e29b01830f88b8658c58c14be3b93"
+  },
+  {
+    "block_number": 87,
+    "timestamp": "2025-11-19T06:52:54Z",
+    "previous_hash": "0000f0ab31f2c6885c647daae12d74bca87e29b01830f88b8658c58c14be3b93",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 62229,
+    "hash": "00004bab8e87d3645eb959a2e0d9adf973f2430c90b16995d817d9958ba7fa84"
+  },
+  {
+    "block_number": 88,
+    "timestamp": "2025-11-19T06:52:56Z",
+    "previous_hash": "00004bab8e87d3645eb959a2e0d9adf973f2430c90b16995d817d9958ba7fa84",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 39734,
+    "hash": "00007c5bf09ef0a9250701e4f70186d126d5a6cf08667db4dd7dce2e931d25f8"
+  },
+  {
+    "block_number": 89,
+    "timestamp": "2025-11-19T06:52:56Z",
+    "previous_hash": "00007c5bf09ef0a9250701e4f70186d126d5a6cf08667db4dd7dce2e931d25f8",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 29710,
+    "hash": "00003bb3844534d2f008533f9658ba12cde0ac50d5a3c4123d3703c26838fea0"
+  },
+  {
+    "block_number": 90,
+    "timestamp": "2025-11-19T06:52:57Z",
+    "previous_hash": "00003bb3844534d2f008533f9658ba12cde0ac50d5a3c4123d3703c26838fea0",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 273215,
+    "hash": "0000f5a68712189c13c76085db4d1a4ceb0635f8e17f5f1d230c00a2671b2403"
+  },
+  {
+    "block_number": 91,
+    "timestamp": "2025-11-19T06:53:21Z",
+    "previous_hash": "0000f5a68712189c13c76085db4d1a4ceb0635f8e17f5f1d230c00a2671b2403",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 27134,
+    "hash": "0000043fcd05d805ada8f6d2a6195d83898bf789d06f6941ac02e1d4abd9df95"
+  },
+  {
+    "block_number": 92,
+    "timestamp": "2025-11-19T06:53:24Z",
+    "previous_hash": "0000043fcd05d805ada8f6d2a6195d83898bf789d06f6941ac02e1d4abd9df95",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 122448,
+    "hash": "000016a877a401d3cde384aca1de11d8b057c906f1a49fb606b7a4c4f0992e2f"
+  },
+  {
+    "block_number": 93,
+    "timestamp": "2025-11-19T06:53:39Z",
+    "previous_hash": "000016a877a401d3cde384aca1de11d8b057c906f1a49fb606b7a4c4f0992e2f",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 34912,
+    "hash": "000094169ca216b8445f82de08aa36690db60d50a83d4521cd1c316a909a049a"
+  },
+  {
+    "block_number": 94,
+    "timestamp": "2025-11-19T06:53:43Z",
+    "previous_hash": "000094169ca216b8445f82de08aa36690db60d50a83d4521cd1c316a909a049a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 40662,
+    "hash": "00006045ffe6d8dab7c23351d70cf0ae820b19bd65bd743fb3d11a78445aeb3b"
+  },
+  {
+    "block_number": 95,
+    "timestamp": "2025-11-19T06:53:45Z",
+    "previous_hash": "00006045ffe6d8dab7c23351d70cf0ae820b19bd65bd743fb3d11a78445aeb3b",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 28803,
+    "hash": "0000f45fca76d1f78f0e3d93971a13e326540c47683e2cc13605a745538a86e9"
+  },
+  {
+    "block_number": 96,
+    "timestamp": "2025-11-19T06:53:46Z",
+    "previous_hash": "0000f45fca76d1f78f0e3d93971a13e326540c47683e2cc13605a745538a86e9",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 43254,
+    "hash": "0000eda7312e45c8081973c3742c41c99daf0bf48ff3f10dcf5040a7acc4d3f4"
+  },
+  {
+    "block_number": 97,
+    "timestamp": "2025-11-19T06:53:47Z",
+    "previous_hash": "0000eda7312e45c8081973c3742c41c99daf0bf48ff3f10dcf5040a7acc4d3f4",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 12292,
+    "hash": "00006617bf45f3314bd52eb26874e784e8e8d69eae8a3ab0d8123f67de5fec41"
+  },
+  {
+    "block_number": 98,
+    "timestamp": "2025-11-19T06:53:47Z",
+    "previous_hash": "00006617bf45f3314bd52eb26874e784e8e8d69eae8a3ab0d8123f67de5fec41",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 102856,
+    "hash": "0000c85e4d599dbba9bc6a7b796dbe8f30f8a9863c82e8ff6fcdb461ca045448"
+  },
+  {
+    "block_number": 99,
+    "timestamp": "2025-11-19T06:53:50Z",
+    "previous_hash": "0000c85e4d599dbba9bc6a7b796dbe8f30f8a9863c82e8ff6fcdb461ca045448",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 64756,
+    "hash": "0000dd351a9d28ae2a1c16715f97d433a39f1d4a16b26e9b100afe1511eab9d0"
+  },
+  {
+    "block_number": 100,
+    "timestamp": "2025-11-19T06:53:51Z",
+    "previous_hash": "0000dd351a9d28ae2a1c16715f97d433a39f1d4a16b26e9b100afe1511eab9d0",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 22530,
+    "hash": "0000f6c5ea78b2b255abbda7291d89f3b77789bce86d56a95b545b01acafd649"
+  },
+  {
+    "block_number": 101,
+    "timestamp": "2025-11-19T06:53:52Z",
+    "previous_hash": "0000f6c5ea78b2b255abbda7291d89f3b77789bce86d56a95b545b01acafd649",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 95928,
+    "hash": "000010f13f60f8d116fbd9a60bc0c25bdc9c6165aa79acf980c5bdda1f7bbc46"
+  },
+  {
+    "block_number": 102,
+    "timestamp": "2025-11-19T06:53:54Z",
+    "previous_hash": "000010f13f60f8d116fbd9a60bc0c25bdc9c6165aa79acf980c5bdda1f7bbc46",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 128925,
+    "hash": "00004be0ac735147c2de49f347876fda4c092ea626a56cf40d03a3cd886f175e"
+  },
+  {
+    "block_number": 103,
+    "timestamp": "2025-11-19T06:53:57Z",
+    "previous_hash": "00004be0ac735147c2de49f347876fda4c092ea626a56cf40d03a3cd886f175e",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 39265,
+    "hash": "00005468b5c1adbf9e7ddc6434e35ba10bb51aea9784d3a7a7499fedb9f1d09e"
+  },
+  {
+    "block_number": 104,
+    "timestamp": "2025-11-19T06:53:58Z",
+    "previous_hash": "00005468b5c1adbf9e7ddc6434e35ba10bb51aea9784d3a7a7499fedb9f1d09e",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 101230,
+    "hash": "000064b2f7fd57fee30e48816c6f0dcac7ff9587682c991157bf750906f0dcfa"
+  },
+  {
+    "block_number": 105,
+    "timestamp": "2025-11-19T06:54:04Z",
+    "previous_hash": "000064b2f7fd57fee30e48816c6f0dcac7ff9587682c991157bf750906f0dcfa",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 8145,
+    "hash": "0000e33b0c4cef33b6c0f9c5f463175934f1333bd5b6d085767469e542a51f4e"
+  },
+  {
+    "block_number": 106,
+    "timestamp": "2025-11-19T06:54:05Z",
+    "previous_hash": "0000e33b0c4cef33b6c0f9c5f463175934f1333bd5b6d085767469e542a51f4e",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 7639,
+    "hash": "0000a4090b2809c3fdfb08692de826dbfc9d516fa126a09caab5bf8d435eb6bf"
+  },
+  {
+    "block_number": 107,
+    "timestamp": "2025-11-19T06:54:06Z",
+    "previous_hash": "0000a4090b2809c3fdfb08692de826dbfc9d516fa126a09caab5bf8d435eb6bf",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 47433,
+    "hash": "000098e39704691542834b46e87b0c776d248ed0ad17e158ebdadd55ecef4726"
+  },
+  {
+    "block_number": 108,
+    "timestamp": "2025-11-19T06:54:12Z",
+    "previous_hash": "000098e39704691542834b46e87b0c776d248ed0ad17e158ebdadd55ecef4726",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 31242,
+    "hash": "00006be67cae533a4a28963e9eb6dbc1e6c7478dc0133201f1a3822489350f16"
+  },
+  {
+    "block_number": 109,
+    "timestamp": "2025-11-19T06:54:15Z",
+    "previous_hash": "00006be67cae533a4a28963e9eb6dbc1e6c7478dc0133201f1a3822489350f16",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 53574,
+    "hash": "0000cd87f18108d2fe9a4aad006ad6f711a2cb6151729513a2895cddfab0c518"
+  },
+  {
+    "block_number": 110,
+    "timestamp": "2025-11-19T06:54:22Z",
+    "previous_hash": "0000cd87f18108d2fe9a4aad006ad6f711a2cb6151729513a2895cddfab0c518",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 5186,
+    "hash": "00005087e07684949bf39ceb4dfa011b44d8d01fe42e6a7aef99f9ff35f25fd1"
+  },
+  {
+    "block_number": 111,
+    "timestamp": "2025-11-19T06:54:23Z",
+    "previous_hash": "00005087e07684949bf39ceb4dfa011b44d8d01fe42e6a7aef99f9ff35f25fd1",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 26493,
+    "hash": "00005dbbbed75f87914dbdfcc269896c00ce7b610ba4d12ef3fffdf32e499250"
+  },
+  {
+    "block_number": 112,
+    "timestamp": "2025-11-19T06:54:26Z",
+    "previous_hash": "00005dbbbed75f87914dbdfcc269896c00ce7b610ba4d12ef3fffdf32e499250",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 206161,
+    "hash": "0000410c1614ea521048df3a123925a44ad50b2e1faec2037f527fab713e1d98"
+  },
+  {
+    "block_number": 113,
+    "timestamp": "2025-11-19T06:54:50Z",
+    "previous_hash": "0000410c1614ea521048df3a123925a44ad50b2e1faec2037f527fab713e1d98",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 61747,
+    "hash": "00006d455a78ea67c98f07db83169f78de4e465afbcfa6eaf65138488181e267"
+  },
+  {
+    "block_number": 114,
+    "timestamp": "2025-11-19T06:54:58Z",
+    "previous_hash": "00006d455a78ea67c98f07db83169f78de4e465afbcfa6eaf65138488181e267",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 42536,
+    "hash": "000099b2ce9aadda7e48e3c27e82f12340ffffffd95afc6eb0c4406fca3cb672"
+  },
+  {
+    "block_number": 115,
+    "timestamp": "2025-11-19T06:55:03Z",
+    "previous_hash": "000099b2ce9aadda7e48e3c27e82f12340ffffffd95afc6eb0c4406fca3cb672",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 19547,
+    "hash": "0000ca66469df2fd7dec08c49d1a877e5423407a2462e590a4cd989a9c0bfb44"
+  },
+  {
+    "block_number": 116,
+    "timestamp": "2025-11-19T06:55:05Z",
+    "previous_hash": "0000ca66469df2fd7dec08c49d1a877e5423407a2462e590a4cd989a9c0bfb44",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 86804,
+    "hash": "0000e6514db59390aebd74fe4f71eb377c4b23d4612f0f5d6a02a6cd5bcd987e"
+  },
+  {
+    "block_number": 117,
+    "timestamp": "2025-11-19T06:55:16Z",
+    "previous_hash": "0000e6514db59390aebd74fe4f71eb377c4b23d4612f0f5d6a02a6cd5bcd987e",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 45784,
+    "hash": "0000a109d951a1b660f541c56db8110d650be87d305fd01eea0c29b2b9282ab1"
+  },
+  {
+    "block_number": 118,
+    "timestamp": "2025-11-19T06:55:22Z",
+    "previous_hash": "0000a109d951a1b660f541c56db8110d650be87d305fd01eea0c29b2b9282ab1",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 29520,
+    "hash": "000097e7de0e54243c5303b3f2116dc2e5d160469a9c586472e9b270350d8a76"
+  },
+  {
+    "block_number": 119,
+    "timestamp": "2025-11-19T06:55:26Z",
+    "previous_hash": "000097e7de0e54243c5303b3f2116dc2e5d160469a9c586472e9b270350d8a76",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 82331,
+    "hash": "00007cbe464f827ac490ce70b96b582c9dc1dc5fbe8c660313964de17747fd7d"
+  },
+  {
+    "block_number": 120,
+    "timestamp": "2025-11-19T06:55:36Z",
+    "previous_hash": "00007cbe464f827ac490ce70b96b582c9dc1dc5fbe8c660313964de17747fd7d",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 177972,
+    "hash": "0000afe9397e71a125943ffca5105524f6730e45fce7429025136116fc45c2d0"
+  },
+  {
+    "block_number": 121,
+    "timestamp": "2025-11-19T06:55:43Z",
+    "previous_hash": "0000afe9397e71a125943ffca5105524f6730e45fce7429025136116fc45c2d0",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 18649,
+    "hash": "000069279188966657b5f08cf5eb7eb35a071129aff8537878812aa4cce44144"
+  },
+  {
+    "block_number": 122,
+    "timestamp": "2025-11-19T06:55:44Z",
+    "previous_hash": "000069279188966657b5f08cf5eb7eb35a071129aff8537878812aa4cce44144",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 58361,
+    "hash": "000034b92c191929362467f36c76fcbef140a6306b44bb6c4e7123ab63578672"
+  },
+  {
+    "block_number": 123,
+    "timestamp": "2025-11-19T06:55:45Z",
+    "previous_hash": "000034b92c191929362467f36c76fcbef140a6306b44bb6c4e7123ab63578672",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 3566,
+    "hash": "0000d74a98dd5dc88f4fc62835cff2ae3659a170ea96425c6dda97268fd76f94"
+  },
+  {
+    "block_number": 124,
+    "timestamp": "2025-11-19T06:55:45Z",
+    "previous_hash": "0000d74a98dd5dc88f4fc62835cff2ae3659a170ea96425c6dda97268fd76f94",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 16383,
+    "hash": "0000cdcce25d635024103bab1c3dd2d47c265565fefc9ba5ff5c9326a534f88a"
+  },
+  {
+    "block_number": 125,
+    "timestamp": "2025-11-19T06:55:45Z",
+    "previous_hash": "0000cdcce25d635024103bab1c3dd2d47c265565fefc9ba5ff5c9326a534f88a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 53995,
+    "hash": "00008fa6ce15519c7776547673f11bb4b67c7ef81072223e23fb03151b81b6c0"
+  },
+  {
+    "block_number": 126,
+    "timestamp": "2025-11-19T06:55:47Z",
+    "previous_hash": "00008fa6ce15519c7776547673f11bb4b67c7ef81072223e23fb03151b81b6c0",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 303257,
+    "hash": "0000f85c6e84465fa8c12c75a0f88d6bd41dafb96faff2f8be7c700fbbabb861"
+  },
+  {
+    "block_number": 127,
+    "timestamp": "2025-11-19T06:55:53Z",
+    "previous_hash": "0000f85c6e84465fa8c12c75a0f88d6bd41dafb96faff2f8be7c700fbbabb861",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 42689,
+    "hash": "000062d67412550b5ec76b6e6f27718f7a358b74f464abb5a2ba97b72cf3498a"
+  },
+  {
+    "block_number": 128,
+    "timestamp": "2025-11-19T06:55:54Z",
+    "previous_hash": "000062d67412550b5ec76b6e6f27718f7a358b74f464abb5a2ba97b72cf3498a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 106569,
+    "hash": "0000841aa879c247c12e3f70abd7fd1b4d2e347ec965b83dc61e7d22fbde1405"
+  },
+  {
+    "block_number": 129,
+    "timestamp": "2025-11-19T06:55:56Z",
+    "previous_hash": "0000841aa879c247c12e3f70abd7fd1b4d2e347ec965b83dc61e7d22fbde1405",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 353779,
+    "hash": "00009f8dfc898855941cac592ca7c51d233a53c97aec9ec22d58b624172a36f7"
+  },
+  {
+    "block_number": 130,
+    "timestamp": "2025-11-19T06:56:04Z",
+    "previous_hash": "00009f8dfc898855941cac592ca7c51d233a53c97aec9ec22d58b624172a36f7",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 178969,
+    "hash": "00002cb7607fd15d4034cb0436d77d4ea3885d75471bfcf87cbda65c9765394a"
+  },
+  {
+    "block_number": 131,
+    "timestamp": "2025-11-19T06:56:24Z",
+    "previous_hash": "00002cb7607fd15d4034cb0436d77d4ea3885d75471bfcf87cbda65c9765394a",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 146,
+    "hash": "000098996d5bfec2a5db7d2cb6457668dec04986d90f44877fa435db8e11f814"
+  },
+  {
+    "block_number": 132,
+    "timestamp": "2025-11-19T06:56:24Z",
+    "previous_hash": "000098996d5bfec2a5db7d2cb6457668dec04986d90f44877fa435db8e11f814",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 321517,
+    "hash": "0000c8fea866bce896f4cf8a3a313c110eb82ce984b4660c40705a64a7e16584"
+  },
+  {
+    "block_number": 133,
+    "timestamp": "2025-11-19T06:57:03Z",
+    "previous_hash": "0000c8fea866bce896f4cf8a3a313c110eb82ce984b4660c40705a64a7e16584",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 7943,
+    "hash": "000023c1769727414303edd8aa15a47f784536d4c5b482f6d6f37dd3951197ad"
+  },
+  {
+    "block_number": 134,
+    "timestamp": "2025-11-19T06:57:04Z",
+    "previous_hash": "000023c1769727414303edd8aa15a47f784536d4c5b482f6d6f37dd3951197ad",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 41366,
+    "hash": "00001b22730c3e444c73c903d595d811a3d150ad5565b938322909e062e9676f"
+  },
+  {
+    "block_number": 135,
+    "timestamp": "2025-11-19T06:57:09Z",
+    "previous_hash": "00001b22730c3e444c73c903d595d811a3d150ad5565b938322909e062e9676f",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 39400,
+    "hash": "00004aea82b7d822e90c4dcba724be2797554c1c8cf395f6480a3cdf2a625bae"
+  },
+  {
+    "block_number": 136,
+    "timestamp": "2025-11-19T06:57:14Z",
+    "previous_hash": "00004aea82b7d822e90c4dcba724be2797554c1c8cf395f6480a3cdf2a625bae",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 95169,
+    "hash": "0000ab190b848d76f59b09b392981ecb7c9b626f29b6d063e2aff7690be1689c"
+  },
+  {
+    "block_number": 137,
+    "timestamp": "2025-11-19T06:57:25Z",
+    "previous_hash": "0000ab190b848d76f59b09b392981ecb7c9b626f29b6d063e2aff7690be1689c",
+    "transacciones": [],
+    "miner": "KRILLIN",
+    "nonce": 79750,
+    "hash": "0000bb7c94918ef372ccde1fc3b9316108872764ff78e76fc704b2d67f2d92f3"
+  }
+]

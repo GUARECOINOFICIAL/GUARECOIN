@@ -1,0 +1,17 @@
+{
+  "titulo": "LEY DE MINERÍA GUARECOIN™",
+  "version": "1.0",
+  "mineria_permitida": "Solo hardware ASIC",
+  "recompensa_por_bloque": "10000 KRILLINS",
+  "equivalencia": "10000 KRILLINS = 1 GUARECOIN™",
+  "consolidacion_automatica": true,
+  "verificacion_obligatoria": true,
+  "penalizaciones": {
+    "software_no_autorizado": "Bloqueo automático del nodo",
+    "manipulacion_de_cadena": "Expulsión permanente"
+  },
+  "verificadores_autorizados": [
+    "verificador_genesis.py",
+    "verificador_integridad.py"
+  ]
+}

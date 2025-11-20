@@ -1,0 +1,7 @@
+{
+  "dificultad": 4,
+  "recompensa_por_bloque": 50,
+  "algoritmo": "SHA-256",
+  "valor_minimo_usd": 0.98,
+  "bloque_génesis": "genesis_block.json"
+}

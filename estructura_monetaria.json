@@ -1,0 +1,15 @@
+{
+  "unidad_principal": "GUARECOIN™",
+  "unidad_fraccionaria": "KRILLIN",
+  "equivalencia": {
+    "guarecoin_por_krillin": 0.0001,
+    "krillin_por_guarecoin": 10000
+  },
+  "divisibilidad": "GUARECOIN™ se divide en 10,000 KRILLINS exactos",
+  "restricciones": {
+    "compra_fraccionaria": "No se permite comprar GUARECOINS™ decimales. Solo KRILLINS enteros.",
+    "visualizacion_dual": "Las billeteras pueden mostrar el saldo en KRILLINS o GUARECOINS™",
+    "consolidacion_automatica": "Al alcanzar 10,000 KRILLINS, se consolida automáticamente 1 GUARECOIN™"
+  },
+  "estado": "Sellado como ley perpetua del sistema GUARECHAIN™"
+}
